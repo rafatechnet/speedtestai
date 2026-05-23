@@ -1,5 +1,19 @@
 [
   {
+    "id": "050cb166-e7c4-4cdc-905a-6589a42f140d",
+    "date": "2026-05-23T12:41:02.210Z",
+    "url": "https://gemini-ultra.rafatech.net",
+    "provider": "gemini-ultra.rafatech.net",
+    "model": "antigravity-gemini-3.5-flash-high",
+    "tps": "24.84",
+    "ttft": "0.000",
+    "tokens": 209,
+    "time": "8.41",
+    "proxied": true,
+    "description": "Flash 3.5 HIght",
+    "delete_token": "5f5ecccc-74c7-4824-a9df-374b7c2a5ab7"
+  },
+  {
     "id": "a15785c6-d973-4d90-a60e-81f0e06109c0",
     "date": "2026-05-23T04:19:08.585Z",
     "url": "https://ollama.com/v1",
