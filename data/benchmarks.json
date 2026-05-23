@@ -1,5 +1,19 @@
 [
   {
+    "id": "2f9505a8-06f1-4fe4-88d8-d7f8f6be61c4",
+    "date": "2026-05-23T20:20:38.981Z",
+    "url": "",
+    "provider": "Llamacpp",
+    "model": "qwen3.6-27b-mtp",
+    "tps": 53.07,
+    "ttft": 19.394,
+    "tokens": 1134,
+    "time": 21.37,
+    "proxied": false,
+    "description": "",
+    "delete_token": "6f3cb6a6-7e95-458e-bbe6-ddc68eaf722b"
+  },
+  {
     "id": "52aae8ac-95c0-4844-b2d6-d5a4ff6ab7d8",
     "date": "2026-05-23T13:01:10.437Z",
     "url": "https://ollama.com/v1",
