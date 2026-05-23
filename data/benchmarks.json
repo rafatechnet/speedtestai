@@ -1,5 +1,19 @@
 [
   {
+    "id": "02ce47a8-2d04-444a-96ad-e4bdbc6491bd",
+    "date": "2026-05-23T21:56:08.085Z",
+    "url": "",
+    "provider": "Llamacpp",
+    "model": "qwen3.6-35b-a3b-mtp",
+    "tps": 160.92,
+    "ttft": 8.517,
+    "tokens": 1417,
+    "time": 8.81,
+    "proxied": false,
+    "description": "",
+    "delete_token": "fb71697a-472d-45a6-b676-0ab881db9091"
+  },
+  {
     "id": "ac5a74d5-a37d-485e-97bf-f54b30279638",
     "date": "2026-05-23T21:55:39.383Z",
     "url": "",
