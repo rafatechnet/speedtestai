@@ -1,5 +1,19 @@
 [
   {
+    "id": "52aae8ac-95c0-4844-b2d6-d5a4ff6ab7d8",
+    "date": "2026-05-23T13:01:10.437Z",
+    "url": "https://ollama.com/v1",
+    "provider": "Ollama Cloud",
+    "model": "kimi-k2.6",
+    "tps": 37.54,
+    "ttft": 6.032,
+    "tokens": 458,
+    "time": 12.2,
+    "proxied": true,
+    "description": "Teste beta",
+    "delete_token": "4937e527-0e2a-4f89-a920-1e7a355a060e"
+  },
+  {
     "id": "a15785c6-d973-4d90-a60e-81f0e06109c0",
     "date": "2026-05-23T04:19:08.585Z",
     "url": "https://ollama.com/v1",
