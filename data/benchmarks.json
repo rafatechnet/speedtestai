@@ -1,5 +1,19 @@
 [
   {
+    "id": "02b08d78-5cba-4627-9e35-fbfa6c29604e",
+    "date": "2026-05-23T23:57:11.718Z",
+    "url": "",
+    "provider": "Claudinho",
+    "model": "antigravity-claude-opus-4-6-thinking",
+    "tps": 28.16,
+    "ttft": 0,
+    "tokens": 290,
+    "time": 10.3,
+    "proxied": true,
+    "description": "",
+    "delete_token": "3fbb78be-eac7-4049-9cc0-adf785e0353d"
+  },
+  {
     "id": "95f442d6-146a-44c5-86d7-2c061805e9b3",
     "date": "2026-05-23T22:43:06.751Z",
     "url": "",
