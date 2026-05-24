@@ -1,5 +1,19 @@
 [
   {
+    "id": "23106809-778f-4318-9b74-4ab2147cab49",
+    "date": "2026-05-24T13:33:58.471Z",
+    "url": "",
+    "provider": "Gemini-ultra",
+    "model": "antigravity-claude-opus-4-6-thinking",
+    "tps": 24.74,
+    "ttft": 0,
+    "tokens": 321,
+    "time": 12.98,
+    "proxied": true,
+    "description": "",
+    "delete_token": "b557e4ba-8e9e-426e-aac2-c319de4e1b2f"
+  },
+  {
     "id": "c7bf949f-0e66-4e7c-8131-37c37abdc827",
     "date": "2026-05-24T00:55:08.917Z",
     "url": "",
