@@ -1,5 +1,19 @@
 [
   {
+    "id": "23c4d6d2-115f-4515-a6bf-1f97e5fd838e",
+    "date": "2026-05-27T02:56:29.215Z",
+    "url": "",
+    "provider": "Gemini-ultra",
+    "model": "antigravity-gemini-3.5-flash-low",
+    "tps": 51.01,
+    "ttft": 0,
+    "tokens": 211,
+    "time": 4.14,
+    "proxied": true,
+    "description": "",
+    "delete_token": "37591897-c509-49c8-85d9-203713797e2d"
+  },
+  {
     "id": "a13e191a-324c-4a45-96c3-d78ed987d5ad",
     "date": "2026-05-27T02:56:13.433Z",
     "url": "",
