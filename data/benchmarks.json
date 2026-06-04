@@ -14,20 +14,6 @@
     "delete_token": "88877092-c1dd-4e27-9129-035081773660"
   },
   {
-    "id": "b0312d06-dc41-4cc7-b9c7-cd246c4020a7",
-    "date": "2026-06-04T18:50:41.425Z",
-    "url": "",
-    "provider": "Ollama Cloud",
-    "model": "kimi-k2.5",
-    "tps": 87.44,
-    "ttft": 3.745,
-    "tokens": 515,
-    "time": 5.89,
-    "proxied": true,
-    "description": "",
-    "delete_token": "013bf70a-d9cd-4b1a-b752-d96ca2060b9c"
-  },
-  {
     "id": "08634533-4930-416a-ba61-3b8bebe0d4ea",
     "date": "2026-06-03T23:12:57.712Z",
     "url": "",
