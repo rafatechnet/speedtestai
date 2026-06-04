@@ -1,5 +1,19 @@
 [
   {
+    "id": "021da634-7c1c-4d4e-81ea-39a22b4d01f2",
+    "date": "2026-06-04T22:32:32.141Z",
+    "url": "",
+    "provider": "Ollama Cloud",
+    "model": "nemotron-3-ultra",
+    "tps": 59.27,
+    "ttft": 1.085,
+    "tokens": 319,
+    "time": 5.38,
+    "proxied": true,
+    "description": "",
+    "delete_token": "9cb42dab-4267-4eeb-aec6-798c9fa3fe7e"
+  },
+  {
     "id": "24f56ac2-5df6-4908-9b99-ff4064d07fd9",
     "date": "2026-06-04T18:53:45.865Z",
     "url": "",
