@@ -1,5 +1,19 @@
 [
   {
+    "id": "c63b89ca-31d3-4faf-978f-48eed7259409",
+    "date": "2026-06-05T21:52:32.709Z",
+    "url": "",
+    "provider": "Ollama Cloud",
+    "model": "deepseek-v4-pro",
+    "tps": 16.45,
+    "ttft": 28.561,
+    "tokens": 550,
+    "time": 33.44,
+    "proxied": true,
+    "description": "",
+    "delete_token": "5e57b589-df34-4583-bd99-bb1e3f6c0440"
+  },
+  {
     "id": "f637935b-acc8-4bd4-a399-4d6e3a4a7605",
     "date": "2026-06-05T21:51:41.004Z",
     "url": "",
