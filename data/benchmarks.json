@@ -1,5 +1,19 @@
 [
   {
+    "id": "c0211985-835f-4a19-8140-14d554da4980",
+    "date": "2026-06-06T01:56:07.844Z",
+    "url": "",
+    "provider": "Ollama Cloud",
+    "model": "glm-5.1",
+    "tps": 145.98,
+    "ttft": 4.607,
+    "tokens": 847,
+    "time": 5.8,
+    "proxied": true,
+    "description": "",
+    "delete_token": "b0c36940-b531-4733-99c7-d32ae72b6313"
+  },
+  {
     "id": "c63b89ca-31d3-4faf-978f-48eed7259409",
     "date": "2026-06-05T21:52:32.709Z",
     "url": "",
