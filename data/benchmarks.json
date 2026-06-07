@@ -1,5 +1,19 @@
 [
   {
+    "id": "82ffc38a-a952-4eea-9055-bb73b9222cff",
+    "date": "2026-06-07T23:30:59.840Z",
+    "url": "",
+    "provider": "Local",
+    "model": "gemma4:12b-it-qat",
+    "tps": 68.28,
+    "ttft": 4.967,
+    "tokens": 496,
+    "time": 7.26,
+    "proxied": false,
+    "description": "",
+    "delete_token": "bd9ddb61-f2db-43c3-9361-f3e51ba1c787"
+  },
+  {
     "id": "99c0238d-40b9-4942-9586-fe8949dca4c5",
     "date": "2026-06-07T12:30:50.115Z",
     "url": "",
