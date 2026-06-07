@@ -532,20 +532,6 @@
     "delete_token": "dacced14-de58-4ded-beb3-ce6aca01fe20"
   },
   {
-    "id": "56e2ad2f-e232-4be0-bc01-642adbe032cb",
-    "date": "2026-05-26T01:15:42.991Z",
-    "url": "",
-    "provider": "Llamacpp",
-    "model": "qwen3.6-27b-mtp",
-    "tps": 47.35,
-    "ttft": 11.369,
-    "tokens": 742,
-    "time": 15.67,
-    "proxied": false,
-    "description": "",
-    "delete_token": "9e772189-84b9-444e-8003-5591f84555e7"
-  },
-  {
     "id": "6afd22f2-1268-4332-9739-7afded7f22b7",
     "date": "2026-05-26T01:15:11.596Z",
     "url": "",
