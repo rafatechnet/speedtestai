@@ -1,5 +1,19 @@
 [
   {
+    "id": "289edf4a-6fec-4eca-b4b1-856652293626",
+    "date": "2026-06-17T11:25:30.419Z",
+    "url": "",
+    "provider": "Llamacpp",
+    "model": "nex-n2-mini-q6",
+    "tps": 124.85,
+    "ttft": 0.25,
+    "tokens": 225,
+    "time": 1.8,
+    "proxied": false,
+    "description": "",
+    "delete_token": "e4aac364-653e-48d8-8b87-efc3f702103e"
+  },
+  {
     "id": "02be76f7-3a13-40e6-8a0f-2cb2982a9bcb",
     "date": "2026-06-15T22:26:41.025Z",
     "url": "",
