@@ -1,5 +1,19 @@
 [
   {
+    "id": "2ffe8fd3-0a18-4c88-a26f-e1098df5b6fc",
+    "date": "2026-07-07T20:47:50.058Z",
+    "url": "",
+    "provider": "Llamacpp",
+    "model": "ornith-1.0-35b-mtp",
+    "tps": 178.26,
+    "ttft": 4.685,
+    "tokens": 1036,
+    "time": 5.81,
+    "proxied": false,
+    "description": "",
+    "delete_token": "fe452c41-901c-4f67-883f-4c25c620018d"
+  },
+  {
     "id": "9f5c0766-c072-422b-88ed-090e14528f9e",
     "date": "2026-07-07T20:47:09.973Z",
     "url": "",
