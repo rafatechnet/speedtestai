@@ -1,5 +1,19 @@
 [
   {
+    "id": "3ed16e88-d8d2-4206-aec2-c8ea85844a8b",
+    "date": "2026-08-24T14:35:53.720Z",
+    "url": "",
+    "provider": "Ollama Cloud",
+    "model": "kimi-k3",
+    "tps": 75.64,
+    "ttft": 20.183,
+    "tokens": 2013,
+    "time": 26.61,
+    "proxied": true,
+    "description": "",
+    "delete_token": "31c5e525-ce8a-4e62-83e8-cf663e37e092"
+  },
+  {
     "id": "ccc8d829-75ee-4c2b-8dd4-edb161770c9f",
     "date": "2026-08-14T15:16:06.591Z",
     "url": "",
