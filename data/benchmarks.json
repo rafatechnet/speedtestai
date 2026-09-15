@@ -1,5 +1,19 @@
 [
   {
+    "id": "71951787-4685-4965-a41b-20156ab4cef4",
+    "date": "2026-09-15T15:26:47.890Z",
+    "url": "",
+    "provider": "Router",
+    "model": "ag/gemini-3.8-flash-high",
+    "tps": 41.36,
+    "ttft": 23.57,
+    "tokens": 985,
+    "time": 23.81,
+    "proxied": true,
+    "description": "",
+    "delete_token": "f1a44019-48b6-4dcc-99d5-98d73ee6e2a8"
+  },
+  {
     "id": "85917835-64d4-4284-8a55-edc769bf0a60",
     "date": "2026-09-15T14:06:12.181Z",
     "url": "",
