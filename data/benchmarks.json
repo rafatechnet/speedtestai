@@ -1,5 +1,19 @@
 [
   {
+    "id": "af301706-6201-4593-924f-1da3f1d8b691",
+    "date": "2026-10-03T11:59:51.289Z",
+    "url": "",
+    "provider": "Router",
+    "model": "cc/claude-opus-5-5",
+    "tps": 85.98,
+    "ttft": 1.575,
+    "tokens": 603,
+    "time": 7.01,
+    "proxied": true,
+    "description": "",
+    "delete_token": "dcbc1a07-e32c-4792-a9ac-b4c1366017cb"
+  },
+  {
     "id": "d2404999-1ae4-4439-904c-ebe0c9768af3",
     "date": "2026-09-15T20:47:54.361Z",
     "url": "",
