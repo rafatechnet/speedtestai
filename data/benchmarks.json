@@ -1,5 +1,19 @@
 [
   {
+    "id": "888a3861-f4ae-48e5-b971-070d5b57801f",
+    "date": "2026-10-05T21:19:28.878Z",
+    "url": "",
+    "provider": "Router",
+    "model": "ag/claude-opus-5-5",
+    "tps": 55.7,
+    "ttft": 7.435,
+    "tokens": 595,
+    "time": 10.68,
+    "proxied": true,
+    "description": "",
+    "delete_token": "729a6c50-4b5d-486b-85a3-6e9ec92f9544"
+  },
+  {
     "id": "60c1d20c-e8cb-49a1-8ff5-6163b0bf639f",
     "date": "2026-10-05T21:18:56.890Z",
     "url": "",
