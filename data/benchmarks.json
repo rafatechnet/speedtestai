@@ -1,5 +1,19 @@
 [
   {
+    "id": "cb560dd7-ae85-4cd9-9da5-e9bd035de64c",
+    "date": "2026-10-08T02:26:41.807Z",
+    "url": "",
+    "provider": "Infer",
+    "model": "muse-spark-1.3",
+    "tps": 138.93,
+    "ttft": 8.193,
+    "tokens": 1198,
+    "time": 8.62,
+    "proxied": false,
+    "description": "",
+    "delete_token": "b95c29bd-8059-4260-bda5-d352faa9f924"
+  },
+  {
     "id": "1fbf119d-5bf3-4a43-9cfa-926ff9cd0b75",
     "date": "2026-10-08T02:26:23.119Z",
     "url": "",
