@@ -1,5 +1,19 @@
 [
   {
+    "id": "5e1502be-61cd-46a6-920a-40c6d36d29b7",
+    "date": "2026-10-08T02:27:00.640Z",
+    "url": "",
+    "provider": "Infer",
+    "model": "deepseek-v4.1-flash",
+    "tps": 43.01,
+    "ttft": 6.118,
+    "tokens": 345,
+    "time": 8.02,
+    "proxied": false,
+    "description": "",
+    "delete_token": "25111bc5-5ab2-4d9a-a59c-658168389195"
+  },
+  {
     "id": "cb560dd7-ae85-4cd9-9da5-e9bd035de64c",
     "date": "2026-10-08T02:26:41.807Z",
     "url": "",
