@@ -1,5 +1,19 @@
 [
   {
+    "id": "8cf14e4a-e3cc-4dc8-99e4-79a408c31f31",
+    "date": "2026-10-08T02:27:17.803Z",
+    "url": "",
+    "provider": "Infer",
+    "model": "qwen3.8-27b",
+    "tps": 35.21,
+    "ttft": 5.494,
+    "tokens": 259,
+    "time": 7.36,
+    "proxied": false,
+    "description": "",
+    "delete_token": "cd999923-5af9-4019-b43d-f378fe813992"
+  },
+  {
     "id": "5e1502be-61cd-46a6-920a-40c6d36d29b7",
     "date": "2026-10-08T02:27:00.640Z",
     "url": "",
