@@ -1,5 +1,19 @@
 [
   {
+    "id": "44daca5f-2f49-4e63-a4d8-197eb2c509d2",
+    "date": "2026-10-10T12:12:38.476Z",
+    "url": "",
+    "provider": "Infer",
+    "model": "glm-5.3-flash",
+    "tps": 30.25,
+    "ttft": 11.206,
+    "tokens": 613,
+    "time": 20.26,
+    "proxied": false,
+    "description": "",
+    "delete_token": "0e25c2d0-b4ad-4783-961a-58ef25f55157"
+  },
+  {
     "id": "69acf6f4-596f-4b05-9917-f720c4caaf35",
     "date": "2026-10-09T20:03:24.004Z",
     "url": "",
