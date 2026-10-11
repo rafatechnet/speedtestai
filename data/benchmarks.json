@@ -1,5 +1,19 @@
 [
   {
+    "id": "8782b952-0e2f-4492-b852-2c80e98146a0",
+    "date": "2026-10-11T11:20:07.541Z",
+    "url": "",
+    "provider": "Router",
+    "model": "cc/claude-haiku-5-5",
+    "tps": 176.82,
+    "ttft": 3.871,
+    "tokens": 832,
+    "time": 4.71,
+    "proxied": true,
+    "description": "",
+    "delete_token": "cb521992-0ba2-4b46-a00c-0d5dc07423f9"
+  },
+  {
     "id": "69662f24-5952-4b57-8a8e-95a69dcf18ff",
     "date": "2026-10-11T11:19:52.417Z",
     "url": "",
