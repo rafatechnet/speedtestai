@@ -1,5 +1,19 @@
 [
   {
+    "id": "69662f24-5952-4b57-8a8e-95a69dcf18ff",
+    "date": "2026-10-11T11:19:52.417Z",
+    "url": "",
+    "provider": "Router",
+    "model": "cx/gpt-6-luna",
+    "tps": 57.63,
+    "ttft": 0.809,
+    "tokens": 134,
+    "time": 2.33,
+    "proxied": true,
+    "description": "",
+    "delete_token": "15b5668d-67a3-4d88-83d3-89b010eec013"
+  },
+  {
     "id": "87270e44-ed3c-4eb2-9962-cbd9ec91aeae",
     "date": "2026-10-11T11:19:36.700Z",
     "url": "",
