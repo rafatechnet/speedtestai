@@ -1,5 +1,19 @@
 [
   {
+    "id": "5137812b-85ee-4522-87e0-8e2aeb837add",
+    "date": "2026-10-15T01:21:43.702Z",
+    "url": "",
+    "provider": "Router",
+    "model": "sub-rafatech/qwen3.8-flash-next-uncensored",
+    "tps": 174.19,
+    "ttft": 0.858,
+    "tokens": 373,
+    "time": 2.14,
+    "proxied": true,
+    "description": "",
+    "delete_token": "faa03ae0-0fc8-4fd4-a6d1-c1fd120d4916"
+  },
+  {
     "id": "09295822-7248-4aa6-9886-902907263db7",
     "date": "2026-10-12T05:08:58.255Z",
     "url": "",
