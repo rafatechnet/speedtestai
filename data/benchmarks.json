@@ -1,5 +1,19 @@
 [
   {
+    "id": "492875b6-16c9-4100-97d6-de80bb7ca492",
+    "date": "2026-10-16T19:19:04.429Z",
+    "url": "",
+    "provider": "Router",
+    "model": "sub-rafatech/glm-5.3-flash-uncensored",
+    "tps": 70.22,
+    "ttft": 6.521,
+    "tokens": 606,
+    "time": 8.63,
+    "proxied": true,
+    "description": "",
+    "delete_token": "ba04f4e9-c187-43df-9062-95e05abfbf4f"
+  },
+  {
     "id": "a2fc48b9-279e-4895-abd4-7d16fc275947",
     "date": "2026-10-16T19:18:50.143Z",
     "url": "",
