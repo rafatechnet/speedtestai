@@ -1,5 +1,19 @@
 [
   {
+    "id": "b7d1d1c6-5392-4a4b-9ac3-3ec834462359",
+    "date": "2026-10-19T14:58:21.907Z",
+    "url": "",
+    "provider": "Infer",
+    "model": "glm-5.3-flash",
+    "tps": 159.71,
+    "ttft": 0.818,
+    "tokens": 501,
+    "time": 3.14,
+    "proxied": false,
+    "description": "https://flatt.com.br",
+    "delete_token": "8c205794-65d6-4f9f-9569-d525d86f4c39"
+  },
+  {
     "id": "492875b6-16c9-4100-97d6-de80bb7ca492",
     "date": "2026-10-16T19:19:04.429Z",
     "url": "",
