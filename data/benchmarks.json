@@ -1,5 +1,19 @@
 [
   {
+    "id": "796ac37b-9ac5-4b1a-8a1f-9e1bfa20b7b9",
+    "date": "2026-11-01T20:38:35.425Z",
+    "url": "",
+    "provider": "Router",
+    "model": "ag/gemini-4-argon-high",
+    "tps": 61.78,
+    "ttft": 13.5,
+    "tokens": 865,
+    "time": 14,
+    "proxied": true,
+    "description": "",
+    "delete_token": "ea07d3fe-bcc4-455d-aa09-f6e5d6db2faf"
+  },
+  {
     "id": "74b6464f-fa14-4ec0-8c72-9950aea66271",
     "date": "2026-10-19T15:03:34.010Z",
     "url": "",
