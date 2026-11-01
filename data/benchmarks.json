@@ -1,5 +1,19 @@
 [
   {
+    "id": "6e1cd53e-1b8b-4ac3-a0ea-4c8d183d480a",
+    "date": "2026-11-01T20:39:26.135Z",
+    "url": "",
+    "provider": "Router",
+    "model": "cx/gpt-6.1-terra",
+    "tps": 34.56,
+    "ttft": 2.086,
+    "tokens": 137,
+    "time": 3.96,
+    "proxied": true,
+    "description": "",
+    "delete_token": "76b54d22-5057-4277-9fbd-1f388d99661d"
+  },
+  {
     "id": "773a3765-56e6-4051-ac7f-459aeb61f7a9",
     "date": "2026-11-01T20:39:13.649Z",
     "url": "",
