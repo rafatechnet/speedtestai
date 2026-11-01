@@ -1,5 +1,19 @@
 [
   {
+    "id": "ea1a9417-18da-4a18-93eb-f52d04ac711b",
+    "date": "2026-11-01T20:40:34.611Z",
+    "url": "",
+    "provider": "Router",
+    "model": "sub-rafatech/deepseek-v4.1-flash-atomic-uncensored",
+    "tps": 68.91,
+    "ttft": 2.855,
+    "tokens": 259,
+    "time": 3.76,
+    "proxied": true,
+    "description": "",
+    "delete_token": "12f2e86c-e3e8-44ec-aa09-0cd67c087ac3"
+  },
+  {
     "id": "a05d2c60-f846-46c8-b4c6-d2606cf157eb",
     "date": "2026-11-01T20:39:42.259Z",
     "url": "",
