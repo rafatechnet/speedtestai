@@ -1,5 +1,19 @@
 [
   {
+    "id": "dd7264f9-dd2f-420b-b3d8-ce7f53d397cc",
+    "date": "2026-11-14T12:26:59.263Z",
+    "url": "",
+    "provider": "p onmouseover=alert(1)",
+    "model": "m",
+    "tps": 1,
+    "ttft": 0.1,
+    "tokens": 5,
+    "time": 1,
+    "proxied": false,
+    "description": "",
+    "delete_token": "d6366cea-f403-4bd2-a42d-0e4c248e500f"
+  },
+  {
     "id": "2b5033a4-e2f3-4098-9fca-1d5638975198",
     "date": "2026-11-14T12:26:57.244Z",
     "url": "",
