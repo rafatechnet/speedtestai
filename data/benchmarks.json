@@ -1,5 +1,19 @@
 [
   {
+    "id": "c7f019ed-c337-434f-acb7-d0ceaec56eb0",
+    "date": "2026-11-14T12:27:30.052Z",
+    "url": "",
+    "provider": "BypassTest",
+    "model": "m",
+    "tps": 1,
+    "ttft": 0.1,
+    "tokens": 5,
+    "time": 1,
+    "proxied": false,
+    "description": "lt;img src=x onerror=alert(1)gt;",
+    "delete_token": "e665d577-3587-444b-abae-5d0908c9a25d"
+  },
+  {
     "id": "e20a5f4d-21b0-4a95-8cea-7949ccdd0fe2",
     "date": "2026-11-14T12:27:27.856Z",
     "url": "",
