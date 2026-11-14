@@ -1,19 +1,5 @@
 [
   {
-    "id": "a41841f8-19c0-48fb-bb50-60472d7eb860",
-    "date": "2026-11-14T12:23:39.234Z",
-    "url": "",
-    "provider": "TesteRE",
-    "model": "m",
-    "tps": 1.5,
-    "ttft": 0.2,
-    "tokens": 10,
-    "time": 1,
-    "proxied": false,
-    "description": "probe RE",
-    "delete_token": "11111111-2222-3333-4444-555555555555"
-  },
-  {
     "id": "ea1a9417-18da-4a18-93eb-f52d04ac711b",
     "date": "2026-11-01T20:40:34.611Z",
     "url": "",
