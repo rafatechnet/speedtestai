@@ -168,20 +168,6 @@
     "delete_token": "28f52c4f-05e2-4069-91ed-2bee29e9b864"
   },
   {
-    "id": "66f70819-6957-4ab8-9182-64827ffc6db5",
-    "date": "2026-11-14T12:26:32.854Z",
-    "url": "",
-    "provider": "XSSProbe",
-    "model": "probe-model",
-    "tps": 1,
-    "ttft": 0.1,
-    "tokens": 5,
-    "time": 1,
-    "proxied": false,
-    "description": " onmouseover=alert(document.domain)",
-    "delete_token": "22222222-3333-4444-5555-666666666666"
-  },
-  {
     "id": "ea1a9417-18da-4a18-93eb-f52d04ac711b",
     "date": "2026-11-01T20:40:34.611Z",
     "url": "",
