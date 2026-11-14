@@ -1,5 +1,19 @@
 [
   {
+    "id": "a83ca759-092d-4dfb-84ea-dead4e45f95a",
+    "date": "2026-11-14T12:27:03.490Z",
+    "url": "",
+    "provider": "SanitizeTest",
+    "model": "m",
+    "tps": 1,
+    "ttft": 0.1,
+    "tokens": 5,
+    "time": 1,
+    "proxied": false,
+    "description": "img src=x onerror=alert(1)",
+    "delete_token": "542fc899-f6b5-4762-b38f-2d752577b839"
+  },
+  {
     "id": "22d3d4ec-97c0-43f7-b939-466b88535696",
     "date": "2026-11-14T12:27:01.561Z",
     "url": "",
